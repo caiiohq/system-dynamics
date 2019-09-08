@@ -1,7 +1,7 @@
 # system-dynamics
 Caio Henrique Stefani
 
-Estudante de Engenharia e fututo pesquisador
+Estudante de Engenharia e futuro pesquisador
 
 hehe
 mec pô
